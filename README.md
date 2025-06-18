@@ -1,2 +1,2 @@
-# Spotify-Clone
+# Responsive-Spotify-Clone
 Spotify Clone using html and css just for my practice.  
